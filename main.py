@@ -1,0 +1,9 @@
+text = input("Введите текст: ")
+...
+
+punctuation = [".", ",", "!", "?"]
+
+...
+
+words = ...
+print(words)
